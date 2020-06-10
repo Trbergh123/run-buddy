@@ -12,3 +12,5 @@ htttps://lernantino.github.io/run-buddy/
 
 ## Contriubution
 Made with ❤️ by Tyrone Bergh 
+
+## ©️2019 Run Buddy, Inc
